@@ -6,4 +6,4 @@ After 9 years in higher education administration, I am following my passion for 
 🧗 Hobbiest
 🏕️ Enthusiast
 
-Current React developer, ask me what I'm working on!
+Current React developer 👩‍💻 ask me what I'm working on!
